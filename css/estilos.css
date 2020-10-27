@@ -158,7 +158,7 @@ span.precio {
 }
 
 .byJG>.image {
-    background-image: url('/favicon.ico');
+    /* background-image: url('/favicon.ico'); */
     background-position: center center;
     background-size: cover;
     width: 25px;
